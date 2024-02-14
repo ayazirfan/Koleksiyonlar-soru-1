@@ -1,0 +1,14 @@
+c:\Users\HP\Desktop\Patika\Koleksiyonlar-soru-1\bin\Debug\net8.0\Koleksiyonlar-soru-1.exe
+c:\Users\HP\Desktop\Patika\Koleksiyonlar-soru-1\bin\Debug\net8.0\Koleksiyonlar-soru-1.deps.json
+c:\Users\HP\Desktop\Patika\Koleksiyonlar-soru-1\bin\Debug\net8.0\Koleksiyonlar-soru-1.runtimeconfig.json
+c:\Users\HP\Desktop\Patika\Koleksiyonlar-soru-1\bin\Debug\net8.0\Koleksiyonlar-soru-1.dll
+c:\Users\HP\Desktop\Patika\Koleksiyonlar-soru-1\bin\Debug\net8.0\Koleksiyonlar-soru-1.pdb
+c:\Users\HP\Desktop\Patika\Koleksiyonlar-soru-1\obj\Debug\net8.0\Koleksiyonlar-soru-1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Desktop\Patika\Koleksiyonlar-soru-1\obj\Debug\net8.0\Koleksiyonlar-soru-1.AssemblyInfoInputs.cache
+c:\Users\HP\Desktop\Patika\Koleksiyonlar-soru-1\obj\Debug\net8.0\Koleksiyonlar-soru-1.AssemblyInfo.cs
+c:\Users\HP\Desktop\Patika\Koleksiyonlar-soru-1\obj\Debug\net8.0\Koleksiyonlar-soru-1.csproj.CoreCompileInputs.cache
+c:\Users\HP\Desktop\Patika\Koleksiyonlar-soru-1\obj\Debug\net8.0\Koleksiyonlar-soru-1.dll
+c:\Users\HP\Desktop\Patika\Koleksiyonlar-soru-1\obj\Debug\net8.0\refint\Koleksiyonlar-soru-1.dll
+c:\Users\HP\Desktop\Patika\Koleksiyonlar-soru-1\obj\Debug\net8.0\Koleksiyonlar-soru-1.pdb
+c:\Users\HP\Desktop\Patika\Koleksiyonlar-soru-1\obj\Debug\net8.0\Koleksiyonlar-soru-1.genruntimeconfig.cache
+c:\Users\HP\Desktop\Patika\Koleksiyonlar-soru-1\obj\Debug\net8.0\ref\Koleksiyonlar-soru-1.dll
